@@ -1,0 +1,10 @@
+Name: ghadi
+Contact number: 09876543
+Email: dfghjkl;'
+Order Information:   [102] cake name: carrot cake,   cake Flavour: carrot,   cakeSize: 12 inch,   cake Calories:280.0,   cost: 65.0SR
+
+*********************************
+payment info:
+the paymentMethod: cash
+the total cost with 15% tax is: 74.75SR
+*********************************

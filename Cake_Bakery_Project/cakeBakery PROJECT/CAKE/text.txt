@@ -1,0 +1,10 @@
+carrot cake,101,140,35.00,carrot,6
+carrot cake,102,280,65.00,carrot,12
+choco cake,103,140,35.00,choco,6
+choco cake,104,280,65.00,choco,12
+cheese cake,105,140,35.00,berry,6
+cheese cake,106,280,65.00,berry,12
+honey cake,107,140,35.00,honey,6
+honey cake,108,280,65.00,honey,12
+lemon cake,109,140,35.00,lemon,6
+lemon cake,110,280,65.00,lemon,12
