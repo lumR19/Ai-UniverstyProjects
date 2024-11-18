@@ -42,3 +42,6 @@ To run this Java-based bakery management system, ensure that all 7 files are pre
 
 These files are interdependent, and the absence of any file may cause errors, especially
 in the driver file. And make sure you do the run from the Driver.java file.
+
+## My Task 
+I did the code of Payment.java and this file worked as parent for Cash.java and CreditCard.java ,So I worked on them too.
