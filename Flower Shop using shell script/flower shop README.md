@@ -31,4 +31,4 @@ to improve the overall operational efficiency of the flower shop.
 - GitHub to uplode the code in one place and all team Members can access and modify the code 
 
 ## My Task
-I worked on the code in totall, And verify the effectiveness of my code and the code written by my colleagues in the project.
+I worked on the code in totall, And verify the effectiveness of my code and the code written by my colleagues in the project. Also I orgnized the report.
